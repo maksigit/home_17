@@ -1,0 +1,66 @@
+body {
+    background: url("img/f.jpg");
+}
+
+.all {
+    width: 800px;
+    margin: 35px 0 0 25px;
+}
+
+ul.header {
+    list-style-type: none;
+    padding: 0 0 0 0;
+    line-height: 2em;
+}
+
+#username {
+    width: 300px;
+}
+
+#surname {
+    width: 300px;
+}
+
+#old {
+    width: 50px;
+}
+
+ul.podr {
+    list-style-type: none;
+    padding: 0 0 0 0;
+    font-size: 0.8em;
+}
+
+ul.cto {
+    list-style-type: none;
+    padding: 0 0 0 0;
+}
+
+#etopole {
+    width: 250px;
+}
+
+#ema {
+    width: 250px;
+}
+
+input:focus {
+    border: 5px solid green;
+}
+
+fieldset {
+    border: 3px solid aqua;
+}
+
+h1, h2 {
+    color: magenta;
+}
+
+p {
+    background: blueviolet;
+    color: white;
+}
+
+textarea:focus {
+    border: 5px solid green;
+}
